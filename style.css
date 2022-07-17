@@ -1,13 +1,20 @@
 body {
-    background: #CCCCCC
+    background:#E6CFB6;
 }
 
 #banner {
     width: 100%;
+    height: 700px;
 }
+
+ .principal{
+    background:#E6CFB6;
+ }
 
 h1 {
     text-align: center;
+    color: #e22b78;
+    height: 70px;
 }
 
 p {
@@ -19,5 +26,15 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #e22b78;
+}
+
+ .itens {
+    font-style: italic
+}
+
+.beneficios{baçkground: }
+h2{
+    text-align: center;
+    color:#e22b78;
 }
