@@ -39,5 +39,14 @@ h2{
     color:#e22b78;
 } 
 .itens{
- text-align:center
+ text-align:center;
+}
+
+.produtos {
+    list-style: none;
+    text-align: center;
+}
+
+li::before {
+    content: "🌊";
 }
